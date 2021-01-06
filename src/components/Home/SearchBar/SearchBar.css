@@ -1,0 +1,53 @@
+.searcharGrand {
+    background: #121212;
+}
+
+.searchBar-div {
+    background: #ff742b;
+    /* margin: 0px 160px 0px 160px; */
+    padding: 7px;
+}
+
+.SearchHeader_container {
+    background: #ffffff;
+    width: 80%;
+    height: 45px;
+}
+
+.SearchIcon {
+    padding: 10px;
+}
+
+.SearchHeader_label {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.SearchHeader_logo img {
+    width: 48px;
+    margin-right: 8px;
+}
+
+.SearchInput {
+    width: 78%;
+    border: 0px;
+}
+
+.SearchInput:focus {
+    outline: none;
+}
+
+.PoweredBy span {
+    color: rgba(33, 36, 61, .5);
+    font-size: 13px;
+    font-weight: 400;
+    position: relative;
+    right: 10px;
+    bottom: 2px;
+}
+
+.logo-algolia {
+    height: 14px;
+}
